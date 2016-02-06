@@ -1,0 +1,167 @@
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+1
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+2
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+3
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+4
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+5
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+6
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+7
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+8
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+9
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+10
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+11
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+12
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+13
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+14
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+15
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+16
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+17
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+18
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+19
+
+var fs = require('fs');
+var data = fs.readFileSync('input.txt');
+console.log(data.toString());
+console.log('Program ended');
+
+20
+
+
+
+
+
+
+
+
